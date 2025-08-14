@@ -48,7 +48,8 @@ Designed for **simplicity**, **security**, and **seamless tracking**.
 ---
 
 ## 📸 Demo
-_Coming soon..._ (Deploy your project and add live link + screenshots here)
+fitsync-frontend-4y4n82jv1-ervaibhavikapiles-projects.vercel.app
+
 
 ---
 
